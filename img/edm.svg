@@ -1,0 +1,47 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cfe8f1;
+      }
+
+      .cls-2 {
+        fill: #8c8c8c;
+      }
+
+      .cls-3 {
+        fill: #ffde52;
+      }
+
+      .cls-4 {
+        fill: #ffa655;
+      }
+
+      .cls-5 {
+        fill: #7fff7b;
+      }
+
+      .cls-6 {
+        fill: #ff5069;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>Tekengebied 1</title>
+  <g id="color">
+    <path class="cls-1" d="M29.5,6.5v19a1.959,1.959,0,0,1-2,2H4.5a1.959,1.959,0,0,1-2-2V6.5a1.959,1.959,0,0,1,2-2h23A1.959,1.959,0,0,1,29.5,6.5Z"/>
+    <path class="cls-1" d="M29.5,16.5v9a1.959,1.959,0,0,1-2,2H4.5a1.959,1.959,0,0,1-2-2v-9Z"/>
+    <circle class="cls-2" cx="24" cy="22" r="2.5"/>
+    <path class="cls-1" d="M27,8a.979.979,0,0,0-1-1H5A.979.979,0,0,0,4,8v5a.979.979,0,0,0,1,1H26a.979.979,0,0,0,1-1Z"/>
+    <path class="cls-3" d="M12,24H10V22h2Zm6-2H16v2h2Z"/>
+    <path class="cls-4" d="M12,25H7V24h5Zm6-1H16v1h2Z"/>
+    <path class="cls-5" d="M12,22H10V20h2Zm6-2H16v2h2Z"/>
+    <rect class="cls-6" x="7" y="25" width="11" height="2"/>
+  </g>
+  <path id="stroke" class="cls-7" d="M2.5,6.5a1.959,1.959,0,0,1,2-2h23a1.959,1.959,0,0,1,2,2v19a1.959,1.959,0,0,1-2,2H4.5a1.959,1.959,0,0,1-2-2Zm4,.5v7M5,9.5H8M12.5,7v7M11,11.5h3M18.5,7v7M17,10.5h3M24.5,7v7M23,9.5h3M26.5,22A2.5,2.5,0,1,0,24,24.5,2.5,2.5,0,0,0,26.5,22Zm-8,5.5v-7a.979.979,0,0,0-1-1H7.5a.979.979,0,0,0-1,1v7m0-6h12m-12,2h12m-12,2h12m-9-6v8m3-8v8m3-8v8m-13-11h27"/>
+</svg>
